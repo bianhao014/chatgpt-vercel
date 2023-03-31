@@ -46,6 +46,7 @@
     "markdown-it-highlightjs": "^4.0.1",
     "markdown-it-katex": "^2.0.3",
     "markdown-it-kbd": "^2.2.2",
+    "pnpm": "^8.1.0",
     "solid-js": "^1.6.15"
   },
   "devDependencies": {
